@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>handling page - tutor</title>
+    <title>Landing Page - Taufiq Gans</title>
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- CSS-->
     <link href="css/styles.css" rel="stylesheet" />
